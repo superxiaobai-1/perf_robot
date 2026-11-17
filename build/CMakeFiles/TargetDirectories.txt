@@ -1,0 +1,14 @@
+/home/liujie/work/perf_robot/build/CMakeFiles/perf_robot_common.dir
+/home/liujie/work/perf_robot/build/CMakeFiles/perf_robot_core.dir
+/home/liujie/work/perf_robot/build/CMakeFiles/perf_robot_agent.dir
+/home/liujie/work/perf_robot/build/CMakeFiles/perf_robot_ebpf_bpf.dir
+/home/liujie/work/perf_robot/build/CMakeFiles/perf_robot_ebpf_runner.dir
+/home/liujie/work/perf_robot/build/CMakeFiles/perf_robot_signal_probe.dir
+/home/liujie/work/perf_robot/build/CMakeFiles/perf_robot_tests.dir
+/home/liujie/work/perf_robot/build/CMakeFiles/test.dir
+/home/liujie/work/perf_robot/build/CMakeFiles/edit_cache.dir
+/home/liujie/work/perf_robot/build/CMakeFiles/rebuild_cache.dir
+/home/liujie/work/perf_robot/build/CMakeFiles/list_install_components.dir
+/home/liujie/work/perf_robot/build/CMakeFiles/install.dir
+/home/liujie/work/perf_robot/build/CMakeFiles/install/local.dir
+/home/liujie/work/perf_robot/build/CMakeFiles/install/strip.dir

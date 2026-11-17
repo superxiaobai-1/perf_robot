@@ -1,0 +1,40 @@
+Start testing: Nov 17 15:33 CST
+----------------------------------------------------------
+1/2 Testing: perf_robot_tests
+1/2 Test: perf_robot_tests
+Command: "/home/liujie/work/perf_robot/build/perf_robot_tests"
+Directory: /home/liujie/work/perf_robot/build
+"perf_robot_tests" start time: Nov 17 15:33 CST
+Output:
+----------------------------------------------------------
+incident saved: "/tmp/perf_robot_writer_test_3197955/async-incident"
+all perf_robot tests passed
+<end of output>
+Test time =   1.18 sec
+----------------------------------------------------------
+Test Passed.
+"perf_robot_tests" end time: Nov 17 15:33 CST
+"perf_robot_tests" time elapsed: 00:00:01
+----------------------------------------------------------
+
+2/2 Testing: perf_robot_report_tests
+2/2 Test: perf_robot_report_tests
+Command: "/home/liujie/miniconda3/bin/python3" "/home/liujie/work/perf_robot/tests/test_perf_robot_report.py"
+Directory: /home/liujie/work/perf_robot/build
+"perf_robot_report_tests" start time: Nov 17 15:33 CST
+Output:
+----------------------------------------------------------
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.238s
+
+OK
+<end of output>
+Test time =   0.29 sec
+----------------------------------------------------------
+Test Passed.
+"perf_robot_report_tests" end time: Nov 17 15:33 CST
+"perf_robot_report_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 17 15:33 CST

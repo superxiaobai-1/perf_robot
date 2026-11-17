@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/perf_robot_tests.dir/tests/perf_robot_tests.cpp.o -o perf_robot_tests  libperf_robot_core.a libperf_robot_common.a 
